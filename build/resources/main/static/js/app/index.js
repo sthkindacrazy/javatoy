@@ -25,6 +25,6 @@ var main = {
             alert(JSON.stringify(error));
         });
     }
-}
+};
 
 index.init();

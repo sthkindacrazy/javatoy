@@ -27,4 +27,4 @@ var main = {
     }
 };
 
-index.init();
+main.init();
